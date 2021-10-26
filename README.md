@@ -21,9 +21,14 @@ Here are some ideas to get you started:
 	CONNENCT
 </h2>
 <div align=center>
- [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCL9NL-8wtF6d36XtO0l3t2w)](https://www.youtube.com/channel/UCL9NL-8wtF6d36XtO0l3t2w) 
+
 </div>
 <h2>
 STACK
 </h2>
- 
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
