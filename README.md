@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Webbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb!</h1>
+<h2>name:KangSeokHyun</h2>
+<h2>school:DGSW</h2>
+#512BD4
