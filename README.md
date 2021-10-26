@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Webbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb!</h1>
-<h2>name:KangSeokHyun</h2>
-<h2>school:DGSW</h2>
-#512BD4
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
