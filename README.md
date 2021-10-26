@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 <h1>Webbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb!</h1>
 <div align=center>
 	
-  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool) 
+  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCL9NL-8wtF6d36XtO0l3t2w)](https://www.youtube.com/channel/UCL9NL-8wtF6d36XtO0l3t2w) 
 	
   </div>
