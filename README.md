@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 </h2>
 <a href="https://www.youtube.com/channel/UCL9NL-8wtF6d36XtO0l3t2w"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCL9NL-8wtF6d36XtO0l3t2w"/></a>
 <a href="https://www.instagram.com/ksh_nof/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.youtube.com/channel/UCL9NL-8wtF6d36XtO0l3t2w"/></a>
+<a href="https://shimmer-utahraptor-d03.notion.site/cc8226e5c0e0400496b1dd25e424769f"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=book&logoColor=white&link=https://www.youtube.com/channel/UCL9NL-8wtF6d36XtO0l3t2w"/></a>
 <h2>
 STACK
 </h2>
